@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157227738506",
+    "project_id": "organizze-project",
+    "storage_bucket": "organizze-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157227738506:android:fb6f40c1f6988863109473",
+        "android_client_info": {
+          "package_name": "com.example.organizzeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157227738506-fd3oknvqmp7ovjgk2bhuae0tuaev91nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organizzeproject",
+            "certificate_hash": "44ad08c43965ac6380791bb7d12d098e741c02de"
+          }
+        },
+        {
+          "client_id": "157227738506-jkb7rm0vgbeqcjqo29vi1p769n7dcecf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgJ78txKpAGlazuAY-YF20H3oHXQljoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157227738506-jkb7rm0vgbeqcjqo29vi1p769n7dcecf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
